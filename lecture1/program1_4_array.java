@@ -1,6 +1,6 @@
 package lecture1;
 
-public class program4_array {
+public class program1_4_array {
     public static void main(String[] args) {
         // int [] arr = new int[10];
         // System.out.println(arr.length); // 10

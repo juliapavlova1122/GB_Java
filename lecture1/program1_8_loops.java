@@ -57,7 +57,7 @@ package lecture1;
 //     }
 // }
 
-public class program8_loops {
+public class program1_8_loops {
     public static void main(String[] args) {
         int[]arr = new int[]{1,2,3,4,5,77};
         // for (int i = 0; i < arr.length; i++) {

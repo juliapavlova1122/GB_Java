@@ -2,7 +2,7 @@ package lecture1;
 /**
  * program2
  */
-public class program2 {
+public class program1_2 {
     public static void main(String[] args) {
         // String s = " 2" ;  - // напечатает 2
         // String s = null; // пустая строка, важно идентифицировать начальное значение

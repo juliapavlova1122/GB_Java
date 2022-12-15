@@ -96,7 +96,7 @@ import java.util.Scanner;
 // }
 
 // // ОБЛАСТЬ ВИДИМОСТИ переменных
-public class program6_scanner {
+public class program1_6_scanner {
     static int t = 123; // можно задать на весь класс
     public static void main(String[] args) {
         int b = 111;  // может использоваться везде

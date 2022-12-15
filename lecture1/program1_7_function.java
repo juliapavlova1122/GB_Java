@@ -58,7 +58,7 @@ package lecture1;
 
 // Оператор выбора
 import java.util.Scanner;
-public class program7_function {
+public class program1_7_function {
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
         System.out.printf("int a: ");

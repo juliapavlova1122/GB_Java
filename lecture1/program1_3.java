@@ -1,6 +1,6 @@
 package lecture1;
 
-public class program3 {
+public class program1_3 {
     public static void main(String[] args) {
         // int i = 23_123_123; // можно разделять разряды нижним подчеркиванием для наглядности
         // System.out.println(i);

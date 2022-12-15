@@ -1,6 +1,6 @@
 package lecture1;
 
-public class program5_convert {
+public class program1_5_convert {
     public static void main(String[] args) {
         int i = 123; double d = i;
         System.out.println(i); // 123
