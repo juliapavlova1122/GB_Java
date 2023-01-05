@@ -13,7 +13,7 @@ public class hometask6 {
       Notebook notebook3 = new Notebook("Asus", "4", "2000", "Windows", "black");
       Notebook notebook4 = new Notebook("Asus", "16", "1000", "Windows", "grey");
       Notebook notebook5 = new Notebook("Huawei", "8", "1000", "Windows", "blue");
-      Notebook notebook6 = new Notebook("Acer", "16", "2000", "Windows", "blacky");
+      Notebook notebook6 = new Notebook("Acer", "16", "2000", "Windows", "black");
 
       Set<Notebook> notebooks = new HashSet<>(List.of(notebook1, notebook2,
             notebook3, notebook4, notebook5, notebook6));
